@@ -1,7 +1,7 @@
 ﻿<html>
     <head>
         <script>
-            window.location.assign("http://www.w3schools.com")
+        //    window.location.assign("http://www.w3schools.com")
         </script>
     </head>
     <body>
